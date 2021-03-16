@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DataTable>
+    <Title>User table</Title>
+    <Surnames>
+        <russian_names diffgr:id="russian_names1" msdata:rowOrder="0">
+            <ID>19903</ID>
+            <Name>Аалия</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>13</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:39:41.143+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names2" msdata:rowOrder="1">
+            <ID>19904</ID>
+            <Name>Аанжелла</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:39:46.837+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names3" msdata:rowOrder="2">
+            <ID>19905</ID>
+            <Name>Аба</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>1000</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:39:55.52+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names4" msdata:rowOrder="3">
+            <ID>19906</ID>
+            <Name>Абав</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:02.687+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names5" msdata:rowOrder="4">
+            <ID>19907</ID>
+            <Name>Абам</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>32</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:11.417+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names6" msdata:rowOrder="5">
+            <ID>19908</ID>
+            <Name>Абаханум</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>4</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:19.203+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names7" msdata:rowOrder="6">
+            <ID>19909</ID>
+            <Name>Абаш</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>125</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:27.567+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names8" msdata:rowOrder="7">
+            <ID>19910</ID>
+            <Name>Аббаза</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>3</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:34.76+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names9" msdata:rowOrder="8">
+            <ID>19911</ID>
+            <Name>Абгюль</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:42.707+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names10" msdata:rowOrder="9">
+            <ID>19912</ID>
+            <Name>Абдужалия</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:50.717+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names11" msdata:rowOrder="10">
+            <ID>19913</ID>
+            <Name>Абдулния</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>1</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:40:58.76+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names12" msdata:rowOrder="11">
+            <ID>19914</ID>
+            <Name>Абдулпетта</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>2</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:41:07.983+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names13" msdata:rowOrder="12">
+            <ID>19915</ID>
+            <Name>Абдулька</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>5</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:41:14.863+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names14" msdata:rowOrder="13">
+            <ID>19916</ID>
+            <Name>Абдупатта</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:41:23.013+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names15" msdata:rowOrder="14">
+            <ID>19917</ID>
+            <Name>Абдурасуль</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>1</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:41:30.88+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names16" msdata:rowOrder="15">
+            <ID>19918</ID>
+            <Name>Абдурефи</Name>
+            <Sex>Ж</Sex>
+            <PeoplesCount>24</PeoplesCount>
+            <WhenPeoplesCount>2016-06-23T13:41:40.2+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24745" msdata:rowOrder="24744">
+            <ID>44647</ID>
+            <Name>Авни</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>126</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:13:58.84+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24746" msdata:rowOrder="24745">
+            <ID>44648</ID>
+            <Name>Аво</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>803</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:06.313+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24747" msdata:rowOrder="24746">
+            <ID>44649</ID>
+            <Name>Аводеле</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:13.723+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24748" msdata:rowOrder="24747">
+            <ID>44650</ID>
+            <Name>Авраал</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>1</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:21.757+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24749" msdata:rowOrder="24748">
+            <ID>44651</ID>
+            <Name>Авраам</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>2000</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:30.107+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24750" msdata:rowOrder="24749">
+            <ID>44652</ID>
+            <Name>Авраамий</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>8</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:38.583+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24751" msdata:rowOrder="24750">
+            <ID>44653</ID>
+            <Name>Аврак</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>2</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:45.753+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24752" msdata:rowOrder="24751">
+            <ID>44654</ID>
+            <Name>Аврам</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>2000</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:14:54.01+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24753" msdata:rowOrder="24752">
+            <ID>44655</ID>
+            <Name>Аврамий</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>7</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:15:02.7+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24754" msdata:rowOrder="24753">
+            <ID>44656</ID>
+            <Name>Аврамович</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>114</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:15:10.41+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24755" msdata:rowOrder="24754">
+            <ID>44657</ID>
+            <Name>Авраэл</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>0</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:15:17.703+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24756" msdata:rowOrder="24755">
+            <ID>44658</ID>
+            <Name>Аврел</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>14</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:15:26.153+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24757" msdata:rowOrder="24756">
+            <ID>44659</ID>
+            <Name>Аврелиан</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>40</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:15:36.08+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+        <russian_names diffgr:id="russian_names24758" msdata:rowOrder="24757">
+            <ID>44660</ID>
+            <Name>Аврелий</Name>
+            <Sex>М</Sex>
+            <PeoplesCount>1000</PeoplesCount>
+            <WhenPeoplesCount>2016-06-25T21:15:42.08+03:00</WhenPeoplesCount>
+            <Source>myData.biz</Source>
+        </russian_names>
+    </Surnames>
+</DataTable>
