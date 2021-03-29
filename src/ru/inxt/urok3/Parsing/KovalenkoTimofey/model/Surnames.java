@@ -1,4 +1,4 @@
-package ru.inxt.urok3.model;
+package ru.inxt.urok3.Parsing.KovalenkoTimofey.model;
 
 public class Surnames {
     private int ID;

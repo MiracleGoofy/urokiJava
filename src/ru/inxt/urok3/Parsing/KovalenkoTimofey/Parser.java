@@ -1,10 +1,10 @@
-package ru.inxt.urok3;
+package ru.inxt.urok3.Parsing.KovalenkoTimofey;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import ru.inxt.urok3.model.DataTable;
-import ru.inxt.urok3.model.Surnames;
+import ru.inxt.urok3.Parsing.KovalenkoTimofey.model.DataTable;
+import ru.inxt.urok3.Parsing.KovalenkoTimofey.model.Surnames;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
