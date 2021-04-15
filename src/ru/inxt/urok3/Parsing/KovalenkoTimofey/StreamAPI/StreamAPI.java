@@ -1,4 +1,4 @@
-package ru.inxt.urok4.StreamAPI;
+package ru.inxt.urok3.Parsing.KovalenkoTimofey.StreamAPI;
 
 import java.util.ArrayList;
 import java.util.List;
